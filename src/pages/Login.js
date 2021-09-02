@@ -49,6 +49,8 @@ class Login extends React.Component {
     return (
       <div className="container-login">
         <form className="form-login">
+          <img src="https://www.pngrepo.com/png/223838/512/growth-investment.png" alt="icon" />
+
           <div className="info-login">
             <label
               htmlFor="email-input"

@@ -23,9 +23,7 @@ class Header extends Component {
 
           { infoHeaderEmail }
         </p>
-        <h1>
-          invest+
-        </h1>
+        <img className="icon-header" src="https://static.thenounproject.com/png/2140021-200.png" alt="icon" />
         <p
           data-testid="total-field"
         >

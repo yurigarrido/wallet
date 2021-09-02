@@ -43,7 +43,7 @@ table {
 
 .divisor {
   color: aliceblue;
-  border: 2px solid black;
+  border: 2px solid aliceblue;
   width: 1395px;
   position: absolute;
   background-color: rgb(0, 0, 0);

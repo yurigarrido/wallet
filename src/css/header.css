@@ -1,12 +1,13 @@
 .container-header {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 0 20px;
   background-color: #036b52;
   color: #fff;
   position: fixed;
   width: 100%;
   margin-top: 0px;
+  align-items: center;
 }
 
 .container-header p {
@@ -21,5 +22,9 @@
 }
 .apagar {
   display: none;
+}
+
+.icon-header {
+  height: 55px;
 }
 
