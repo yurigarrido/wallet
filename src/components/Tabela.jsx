@@ -55,7 +55,7 @@ class Tabela extends Component {
                     data-testid="delete-btn"
                     onClick={ () => this.handleOnClick(desp.id) }
                   >
-                      💣
+                      ❌
                   </button>
                 </td>
               </tr>
