@@ -634,3 +634,7 @@ Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/2OfLJPn)
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
 ---
+<img src='./imgs/adicionandoItens.png'/>
+<img src='./imgs/foto.png'/>
+<img src='./imgs/inputs.png'/>
+<img src='./imgs/valorFinal.png'/>
