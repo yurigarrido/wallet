@@ -1,6 +1,46 @@
 
 # Boas vindas ao repositório do projeto Wallet!
 
+# Sobre a aplicação:
+
+<br />
+
+### Assim que entramos na aplicação nos deparamos com a seguinte página de login
+
+- Essa pagina verifica se o campo de email contem '@email.com'
+- verifica se a senha possui pelo menos 6 caracteres.
+- se o email e senha estiverem preenchidos da maneira correta, o botão é abilitado.
+<br />
+<img src='./imgs/login.png'/>
+<br />
+<br />
+
+### Aqui podemos ver a aplicação após preencher o login
+
+<br />
+<img src='./imgs/foto.png'/>
+<br />
+<br />
+
+### Agora, podemos ver como fica a aplicação após adicionar algumas despezas.
+
+<br />
+<img src='./imgs/adicionandoItens.png'/>
+<br />
+<br />
+
+### Nessa imagem, podemos ver os imputs, que estão disponíveis na aplicação
+
+<br />
+<img src='./imgs/inputs.png'/>
+<br />
+<br />
+
+### Agora, com uma ênfase no valor final, podemos observar mais um dos funcionamentos da aplicação, podendo dessa forma informar o usuário de uma maneira simples.
+
+<br />
+<img src='./imgs/valorFinal.png'/>
+
 # Habilidades
 Neste projeto, praticamos:
 
@@ -185,45 +225,3 @@ Caso queira avaliar apenas um tópico do requisito, você também pode usar o `.
 ![image](test-only.png)
 ![image](only-one-green.png)
 
-
----
-
-# Sobre a aplicação:
-
-<br />
-
-### Assim que entramos na aplicação nos deparamos com a seguinte página de login
-
-- Essa pagina verifica se o campo de email contem '@email.com'
-- verifica se a senha possui pelo menos 6 caracteres.
-- se o email e senha estiverem preenchidos da maneira correta, o botão é abilitado.
-<br />
-<img src='./imgs/login.png'/>
-<br />
-<br />
-
-### Aqui podemos ver a aplicação após preencher o login
-
-<br />
-<img src='./imgs/foto.png'/>
-<br />
-<br />
-
-### Agora, podemos ver como fica a aplicação após adicionar algumas despezas.
-
-<br />
-<img src='./imgs/adicionandoItens.png'/>
-<br />
-<br />
-
-### Nessa imagem, podemos ver os imputs, que estão disponíveis na aplicação
-
-<br />
-<img src='./imgs/inputs.png'/>
-<br />
-<br />
-
-### Agora, com uma ênfase no valor final, podemos observar mais um dos funcionamentos da aplicação, podendo dessa forma informar o usuário de uma maneira simples.
-
-<br />
-<img src='./imgs/valorFinal.png'/>
