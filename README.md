@@ -2,7 +2,7 @@
 # Boas vindas ao repositório do projeto Wallet!
 
 # Sobre a aplicação:
-
+[clique e veja o melhor site de wallet](https://wallet-reactjs.herokuapp.com/)
 <br />
 
 ### Assim que entramos na aplicação nos deparamos com a seguinte página de login
